@@ -1,0 +1,29 @@
+#About{
+  width:400px;
+  height:500px;
+  max-height: 100%;
+  border-radius:  20px;
+  margin-left: 100px;
+  border-color:white;
+  border-style: groove;
+  float:right;
+}
+#Aboutme{
+  display:none;
+}
+#secondbody{
+  
+  display:none;
+  
+}
+
+#contact{
+  margin-top:50px;
+  
+  background-color: white;
+}
+#imgs{
+  margin-left: 20%;
+  height:30%;
+  width:5%;
+}

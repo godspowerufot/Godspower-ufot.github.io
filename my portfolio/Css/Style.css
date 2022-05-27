@@ -1,0 +1,57 @@
+
+
+.row{
+  margin-top:200px;
+}
+
+ul, li, ol{
+	float:none;
+	list-style: none;
+	padding: 10px;
+	
+}
+#aboutme{
+  display:none;
+}
+
+
+
+
+  .Heading{
+    font-stretch:ultra-expanded ;
+    font-size:30.5px;
+    width:100%;
+    font-weight: bold;
+    font-family: Times New Roman;
+    text-transform: uppercase;
+    
+  }
+  #home{
+    padding-top:50px;
+  }
+  #shortme{
+   text-indent: 1cm; 
+   font-weight: bold;
+   font-family:Sans-Serif;
+   font-size: 20px;
+  }
+  .skill2{
+    display:none;
+  }
+  
+  #more{
+    
+    font-family: Courier New Georgia Segoe UI Times New Roman;
+    font-size:30px ;
+    
+    
+    color: black;
+    font-weight: bold;
+    word-wrap: break-word;
+    text-align: center;
+  }
+  
+  
+  footer{
+    padding-top:50px;
+  }
